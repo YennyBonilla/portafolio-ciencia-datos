@@ -17,11 +17,11 @@
 ## Fuente de datos
 
 - **Fuente:** SEP, Formato 911, cuestionario 911.10 «Institución».
-- **Base utilizada:** archivo propio de Yenny, `INSTITUCIÓN.xlsx`, hoja «F911 10 Instituciones Ciclo 2025-2026».
+- **Base utilizada:** archivo propio, `INSTITUCIÓN.xlsx`, hoja «F911 10 Instituciones Ciclo 2025-2026».
 - **Diccionario de variables:** cuestionario en blanco `INSTITUCI_N.pdf` (911.10, ciclo escolar 2025-2026), que describe el significado de las columnas.
 - **Alternativa pública:** conjunto «Registro del alumnado y personal docente de educación básica, media y superior (formato 911)» en [datos.gob.mx](https://datos.gob.mx/es/dataset/registro_alumnado_personal_docente_educacion_basica_media_superior_formato_911). Incluye datos de alumnado y docentes, pero no de personal administrativo.
 
-La base corresponde al levantamiento oficial de la SEP. El cuestionario 911.10 es el instrumento con el que cada institución reporta su personal, alumnado, finanzas e investigación en cada ciclo escolar.
+La base corresponde al levantamiento oficial de la SEP. El cuestionario 911 es el instrumento con el que cada institución reporta su personal, alumnado, finanzas e investigación en cada ciclo escolar.
 
 ## Dónde buscar datos
 
@@ -63,4 +63,6 @@ Del cuestionario 911.10, secciones I, II y III:
 
 ## Alcance y limitaciones
 
-El análisis es descriptivo y se basa en conteos agregados reportados por institución. La alternativa pública de datos.gob.mx no contiene personal administrativo; para comparar todas las funciones se utilizará la base propia de la SEP y su cuestionario como diccionario.
+El análisis es descriptivo y se basa en conteos agregados reportados por institución. 
+**Relevancia:** Es importante determinar las caracteristicas del personal que conforma cada institución para identificar áreas de oportunidad que determinan el tipo de politicas públicas enecesarias para apoyar a las instituciones.
+**Liminaciones:** La alternativa pública de datos.gob.mx no contiene personal administrativo; para comparar todas las funciones se utilizará la base propia de la SEP y su cuestionario como diccionario.
