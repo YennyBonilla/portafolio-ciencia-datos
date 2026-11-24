@@ -1,4 +1,4 @@
-# Yenny E. Bonilla Basto
+# Yenny Bonilla Basto
 
 Estudié la Licenciatura en Enseñanza de las Matemáticas, la Especialidad en Estadística y una Maestría en Economía.
 
