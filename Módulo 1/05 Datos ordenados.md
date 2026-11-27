@@ -38,3 +38,11 @@ Las sumas de control del cuestionario cuadran al 100% en las 5,270 filas.
 ## Nota
 
 La base completa no va en Markdown: son 5,270 filas por 862 columnas y el archivo sería demasiado grande para verse como tabla. Este archivo describe la base; los datos se trabajan en Excel.
+
+## Capturas del documento de datos
+
+Por lo anterior, se comparten capturas del documento con los datos utilizados en el proyecto:
+
+![Inicio de datos](img/911_2025-2026_01.png)
+
+![Ultima parte de datos](img/911_2025-2026_02.png)
